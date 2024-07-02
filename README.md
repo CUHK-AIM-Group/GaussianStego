@@ -21,13 +21,9 @@
 -------------------------------------------
 ![introduction](./assets/method.jpg)
 
-## Abstract 
-Recent advancements in large generative models and real-time neural rendering using point-based techniques pave the way for a future of widespread visual data distribution through sharing synthesized 3D assets.
-
-However, while standardized methods for embedding proprietary or copyright information, either overtly or subtly, exist for conventional visual content such as images and videos, this issue remains unexplored for emerging generative 3D formats like Gaussian Splatting.
-
-We present GaussianStego, a method for embedding steganographic information in the rendering of generated 3D assets. Our approach employs an optimization framework that enables the accurate extraction of hidden information from images rendered using Gaussian assets derived from large models, while maintaining their original visual quality.
-
-We conduct preliminary evaluations of our method across several potential deployment scenarios and discuss issues identified through analysis. GaussianStego represents an initial exploration into the novel challenge of embedding customizable, imperceptible, and recoverable information within the renders produced by current 3D generative models, while ensuring minimal impact on the rendered content's quality.
+## Highlights 
+- While standardized methods for embedding proprietary or copyright information, either overtly or subtly, exist for conventional visual content such as images and videos, this issue remains unexplored for emerging generative 3D formats like Gaussian Splatting.
+- We present GaussianStego, a method for embedding steganographic information in the rendering of generated 3D assets. Our approach employs an optimization framework that enables the accurate extraction of hidden information from images rendered using Gaussian assets derived from large models, while maintaining their original visual quality.
+- We conduct preliminary evaluations of our method across several potential deployment scenarios and discuss issues identified through analysis. GaussianStego represents an initial exploration into the novel challenge of embedding customizable, imperceptible, and recoverable information within the renders produced by current 3D generative models, while ensuring minimal impact on the rendered content's quality.
 
 ## Code(Coming Soon)
